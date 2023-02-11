@@ -46,3 +46,5 @@ Tenho 24 anos, moro em Aracaju/SE e desde 2020 sou apaixonado por programação!
 </div>
     
 </br>
+
+![snake gif](https://github.com/doug-sales1819/doug-sales1819/blob/output/github-contribution-grid-snake.svg)
