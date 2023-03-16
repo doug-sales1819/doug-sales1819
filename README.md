@@ -1,6 +1,6 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/doug-sales1819/doug-sales1819/blob/main/octocat-1676073739839.png">
 
-# Douglas Sales
+## Douglas Sales
 <div dsplay="inline-block">
     <div>
         <a href="https://instagram.com/douglas.sales24?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
