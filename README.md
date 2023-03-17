@@ -29,7 +29,7 @@ olá ✋, eu sou Douglas Sales, sou desenvolvedor back-end Node.js e Python.
 </br>
 
 <div display="inline-block">
-    <p align="left">🤿 Faço parte da turma 31 do curso de fullstack da <a href="https://www.betrybe.com/">Trybe</a>, em busca de aprimorar os conhecimentos em soft-skills e hard-skills;</p>
+    <p align="left">🤿 Faço parte da turma 31 do curso de full-stack da <a href="https://www.betrybe.com/">Trybe</a>, em busca de aprimorar os conhecimentos em soft-skills e hard-skills;</p>
     <p align="left">📚 Estou graduando em análise e desenvolvimento de sistemas pela Estácio;</p>
 </div>
 
