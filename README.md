@@ -14,7 +14,7 @@
 </div>
 
 <hr />
-olá ✋, eu sou Douglas Sales, sou desenvolvedor back-end Node.js e Python.
+olá ✋, eu sou Douglas Sales, sou desenvolvedor Full Stack.
 
 </br>
 
