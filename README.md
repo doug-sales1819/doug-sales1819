@@ -29,17 +29,3 @@ olá ✋, eu sou Douglas Sales, sou desenvolvedor Full Stack.
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title = "JEST"/></code>
 
 </br>
-</br>
-
-<div display="inline-block">
-    <p align="left">🤿 Faço parte da turma 31 do curso de full-stack da <a href="https://www.betrybe.com/">Trybe</a>, em busca de aprimorar os conhecimentos em soft-skills e hard-skills;</p>
-    <p align="left">📚 Estou graduando em análise e desenvolvimento de sistemas pela Estácio;</p>
-</div>
-
-</br>
-
-<div>
-    <a href="https://github.com/seu-usuário-aqui">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doug-sales1819&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doug-sales1819&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
